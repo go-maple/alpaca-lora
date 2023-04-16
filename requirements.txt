@@ -6,7 +6,7 @@ black
 black[jupyter]
 datasets
 fire
-git+https://github.com/go-maple/transformers.git@c612628045822f909020f7eb6784c79700813eda
 git+https://github.com/go-maple/peft.git@e536616888d51b453ed354a6f1e243fecb02ea08
+transformers>=4.28.0
 sentencepiece
 gradio
